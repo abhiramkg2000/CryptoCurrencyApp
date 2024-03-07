@@ -1,0 +1,20 @@
+.coin-input {
+  border-radius: 15px;
+  padding: 0 15px;
+}
+.coin-input:focus {
+  outline: none;
+}
+.crypto {
+  min-height: 100vh;
+}
+.btn {
+  margin: 20px 0px;
+  border-radius: 20px;
+}
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

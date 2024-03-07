@@ -1,0 +1,36 @@
+{
+  "name": "cryptocurrencyapp",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "0.22.0",
+    "bootstrap": "5.1.2",
+    "chart.js": "3.6.2",
+    "node.js": "0.0.1-security",
+    "react": "17.0.2",
+    "react-chartjs-2": "4.0.0",
+    "react-dom": "17.0.2",
+    "react-router-dom": "5.3.0",
+    "react-scripts": "4.0.0",
+    "react-scroll-to-top": "1.0.5",
+    "react-spinners": "0.11.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

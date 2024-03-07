@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  color: aqua;
+  font-weight: 100%;
+}
+th {
+  text-transform: uppercase;
+}
+tr {
+  border-bottom: 1px solid "aqua";
+  text-align: justify;
+  height: fit-content;
+}
+tr:hover {
+  background-color: #0080ff;
+}
